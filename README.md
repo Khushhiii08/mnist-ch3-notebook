@@ -10,11 +10,6 @@ The project walks through:
 - Image denoising using KNN
 - Visualizations of model performance (confusion matrix, precision-recall curves)
 
-## Sample Output
-
-| Noisy Image | Clean Image |
-|-------------|-------------|
-| <img src="notebooks/noisy_sample.png" width="120"/> | <img src="notebooks/clean_sample.png" width="120"/> |
 
 ## Requirements
 
